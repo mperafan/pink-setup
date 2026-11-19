@@ -4,9 +4,9 @@ A soft pink setup for the terminal, Zed and Claude Code. Every color comes from 
 `#ffafd7` (light pink, xterm 218) and `#ff5faf` (hot pink, xterm 205), plus `#ff5f5f` for warnings.
 
 ```
- (\_/)
- ( •.•)  ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆
- / >♡
+ (\_/)   ♡    ⋆     ♡    ⋆     ♡    ⋆
+ ( •.•)  ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆ ♡ ⋆
+ / >♡     ⋆    ♡     ⋆    ♡     ⋆    ♡
 ```
 
 ## What's inside
