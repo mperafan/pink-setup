@@ -1,0 +1,5 @@
+{
+  "name": "pink-setup",
+  "owner": { "name": "mperafan" },
+  "plugins": [{ "name": "bunny-separator", "source": "./bunny-separator" }]
+}
